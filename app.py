@@ -17,7 +17,7 @@ def predict():
     length = request.form.get('Length')
     diameter = request.form.get('Diameter')
     height = request.form.get('Height')
-    # LoanDuration = request.form.get('duration')              
+    
    
     ##Test model prediction with static data. Reshape to change to 2D array 
     testdata = np.reshape([
@@ -34,7 +34,7 @@ def predict():
     pred_result = model.predict(testdata)
 
     
-    return render_template('index.html', prediction_text='The predicted abalone age is: {}.2f.'.format(pred_result))
+    return render_template('index.html', prediction_text='The predicted abalone age is: {}'.format(pred_result))
 
 if __name__ == "__main__":
     app.run()
