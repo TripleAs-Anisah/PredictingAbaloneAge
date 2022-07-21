@@ -1,0 +1,5493 @@
+{
+  "intents": [
+    {
+      "intent": "About",
+      "examples": [
+        {
+          "text": "About"
+        },
+        {
+          "text": "Function"
+        },
+        {
+          "text": "Functions"
+        },
+        {
+          "text": "help"
+        },
+        {
+          "text": "Tell me about the bot"
+        },
+        {
+          "text": "Tell me about your function"
+        },
+        {
+          "text": "Tell me about yourself"
+        },
+        {
+          "text": "What do you do"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Agronomics",
+      "examples": [
+        {
+          "text": "agronomics"
+        },
+        {
+          "text": "Cast"
+        },
+        {
+          "text": "charge"
+        },
+        {
+          "text": "Coastal"
+        },
+        {
+          "text": "Diving"
+        },
+        {
+          "text": "Environment"
+        },
+        {
+          "text": "expensive"
+        },
+        {
+          "text": "Farming"
+        },
+        {
+          "text": "Grow"
+        },
+        {
+          "text": "Habitat"
+        },
+        {
+          "text": "Harvest"
+        },
+        {
+          "text": "high"
+        },
+        {
+          "text": "legal"
+        },
+        {
+          "text": "limited"
+        },
+        {
+          "text": "Net"
+        },
+        {
+          "text": "premium"
+        },
+        {
+          "text": "quanitity"
+        },
+        {
+          "text": "Thrive"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "bye",
+      "examples": [
+        {
+          "text": "Bye"
+        },
+        {
+          "text": "howdy"
+        },
+        {
+          "text": "Ok"
+        },
+        {
+          "text": "Sayonara"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "That's all"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Distributors",
+      "examples": [
+        {
+          "text": "Local distributor"
+        },
+        {
+          "text": "Local Wholesaler"
+        },
+        {
+          "text": "Singapore Distributors"
+        },
+        {
+          "text": "Singapore Wholesaler"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Export",
+      "examples": [
+        {
+          "text": "aquaculture"
+        },
+        {
+          "text": "Countries"
+        },
+        {
+          "text": "Country"
+        },
+        {
+          "text": "Exporters"
+        },
+        {
+          "text": "Importers"
+        },
+        {
+          "text": "Leading"
+        },
+        {
+          "text": "Markets"
+        },
+        {
+          "text": "Mexican captured abalone is considered a world premium. This is because Mexico is one of the last countries to legally fish wild, large sized, green abalone (H. bulges) under a government quotas system. The bulk is processed into cans of 255 g drained weight, with price per can the highest of any canned abalone in the world. Government fishing quotas  have been reduced nearly 30 percent from 2010 to 2015, in part as a result of unabated cartel related IUU activity. Mexico has a small yet growing aquaculture industry."
+        },
+        {
+          "text": "Other Countries"
+        },
+        {
+          "text": "Producer"
+        },
+        {
+          "text": "Production"
+        },
+        {
+          "text": "Region"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Get-Interest",
+      "examples": [
+        {
+          "text": "I'm interested in buying something"
+        },
+        {
+          "text": "I'm interested in Selling something"
+        },
+        {
+          "text": "I want to buy something"
+        },
+        {
+          "text": "I want to sell something"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Getname",
+      "examples": [
+        {
+          "text": "My name is anisah"
+        },
+        {
+          "text": "My name is branden"
+        },
+        {
+          "text": "My name is brandon"
+        },
+        {
+          "text": "My name is David"
+        },
+        {
+          "text": "My name is Henry"
+        },
+        {
+          "text": "My name is Jaime"
+        },
+        {
+          "text": "My name is Jeff"
+        },
+        {
+          "text": "My name is Jeremy"
+        },
+        {
+          "text": "My name is Ke Jie"
+        },
+        {
+          "text": "My name is Kumar"
+        },
+        {
+          "text": "My name is Laila"
+        },
+        {
+          "text": "My name is Lionel"
+        },
+        {
+          "text": "My name is Norman"
+        },
+        {
+          "text": "My name is Praveen"
+        },
+        {
+          "text": "My name is Ronaldo"
+        },
+        {
+          "text": "My name is suhaimi"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "greeting",
+      "examples": [
+        {
+          "text": "gm"
+        },
+        {
+          "text": "Good afternoon"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey"
+        },
+        {
+          "text": "Hi"
+        },
+        {
+          "text": "Hola"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hi",
+      "examples": [
+        {
+          "text": "Hi"
+        }
+      ]
+    },
+    {
+      "intent": "Price",
+      "examples": [
+        {
+          "text": "Cost"
+        },
+        {
+          "text": "How much"
+        },
+        {
+          "text": "Price"
+        }
+      ]
+    },
+    {
+      "intent": "recipes",
+      "examples": [
+        {
+          "text": "cook"
+        },
+        {
+          "text": "Dishes"
+        },
+        {
+          "text": "How to cook"
+        },
+        {
+          "text": "How to prepare"
+        },
+        {
+          "text": "preparation"
+        },
+        {
+          "text": "recipe"
+        },
+        {
+          "text": "recipes"
+        },
+        {
+          "text": "Show me some dishes"
+        }
+      ]
+    },
+    {
+      "intent": "Recommendation",
+      "examples": [
+        {
+          "text": "Best"
+        },
+        {
+          "text": "How to choose"
+        },
+        {
+          "text": "I am looking to buy"
+        },
+        {
+          "text": "I want to buy"
+        },
+        {
+          "text": "Recommend me recipes"
+        },
+        {
+          "text": "Size"
+        },
+        {
+          "text": "type"
+        },
+        {
+          "text": "types"
+        },
+        {
+          "text": "Weight"
+        },
+        {
+          "text": "What are there"
+        },
+        {
+          "text": "Where can I buy"
+        },
+        {
+          "text": "Where can I find"
+        }
+      ],
+      "description": "Recommend types of abalones"
+    },
+    {
+      "intent": "tell_me_about_wiki",
+      "examples": [
+        {
+          "text": "Tell me about abalones"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "abalonesize",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Abalonewithchilliandgarlic",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "5",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Abalonewithspringonionsandginger",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Africa",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Africa",
+          "synonyms": [
+            "South Africa"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "South Africa",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "America",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "America",
+          "synonyms": [
+            "Chile",
+            "Mexico",
+            "South America",
+            "USA"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Chile",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Mexico",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "USA",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "arcomarketing",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Asia",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Asia",
+          "synonyms": [
+            "Asia",
+            "China ",
+            "Japan",
+            "Korea",
+            "Republic Of Korea"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "China",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Japan",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Korea",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Australia",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "4",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "backtrack",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "BraisedAbaloneandBroccoliinOysterSauce",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "7",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "BraisedAbalonewithAgedSoy",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Braised-Abalone-with-BokChoy",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "9",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Braised-Abalone-with-Mushroom",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "8",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Brands",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Calmex Australia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Golden Chef NZ",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "New Moon Australia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "New Moon Mexico",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "New Moon NZ",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Seaco Australia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Skylight NZ",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "CalmexAustraliaPrice",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Chile",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "8",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "china",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "countrybest",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "cvburmiindonesiasubur",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "5",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Drainedweightornetweight",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "farming",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "5",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "FreshorCanned",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "4",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "GoldenChefNZPrice",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Greeting",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Good afternoon",
+          "synonyms": [
+            "afternoon",
+            "ga",
+            "gd aft"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Good evening",
+          "synonyms": [
+            "evening",
+            "gd evn",
+            "ge"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Good morning",
+          "synonyms": [
+            "gd mrng",
+            "gm",
+            "morning",
+            "mrng"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Hello",
+          "synonyms": [
+            "hello",
+            "hey",
+            "hi",
+            "Hio",
+            "hola"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Hongseafood",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "4",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Japan",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Korea",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "legal",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "4",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "menu-about",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "7",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "menu-agronomics",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "menu-distributor",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "5",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "menu-exporter",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "6",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "menu-price",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "4",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "menu-recipes",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "menu-recommendation",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Mexico",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "7",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "newmoon",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "NewMoonAustralia",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "NewMoonMexico",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "4",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "NewMoonNZ",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "5",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "NewZealand",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "5",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "object_of_interest",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Abalone",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "marine gastropod molluscs",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "muttonfish",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "muttonshells",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Other",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Other Countries",
+          "synonyms": [
+            "Canada",
+            "Channel Islands",
+            "France",
+            "Iceland",
+            "Ireland",
+            "Namimbia",
+            "Oman",
+            "Spain",
+            "Taiwan",
+            "Thailand",
+            "United Kingdom"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Othercountries",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "10",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Pacific",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Australia",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "New Zealand",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Pacific",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Pan-Fried-Abalone",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "6",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Pan-FriedAbalone",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "4",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Recipes",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Prepare",
+          "synonyms": [
+            "Braised",
+            "Chinese New Year",
+            "Cook",
+            "Dishes",
+            "Fried",
+            "Ingredient",
+            "Meals",
+            "Recipe",
+            "Specials",
+            "Traditional",
+            "Treat",
+            "Tutorials"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "return",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Risk",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "SautéedAbalone",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "SeacoAustralia",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "6",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sinocean",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "2",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "SkylightNZ",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "7",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "SouthAfrica",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "6",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "supply",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "3",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "USA",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "9",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "VWC",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "6",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "wildharvest",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "1",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "webhooks": [
+    {
+      "url": "https://us-south.functions.appdomain.cloud/api/v1/web/58cbc378-0f91-4832-8374-639077970f6e/Assistant-Functions/Wikipedia-Connection.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_71_1657876416765",
+      "event_name": "input",
+      "dialog_node": "handler_72_1657876416765"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_71_1657876416765",
+      "event_name": "focus",
+      "dialog_node": "handler_73_1657876416765",
+      "previous_sibling": "handler_72_1657876416765"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "node_60_1657876416757",
+      "event_name": "focus",
+      "dialog_node": "handler_74_1657876416765",
+      "previous_sibling": "node_70_1657876416765"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_51_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_100_1657901220930"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_53_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_101_1657901235198"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Do you have any more questions for me?"
+              },
+              {
+                "text": "Thank you for chatting with me. Have a fantastic day!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#bye || anything_else",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1657027496168",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_54_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_102_1657901253307"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_55_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_103_1657901262839"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_56_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_104_1657901272876"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_57_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_105_1657901305064"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_58_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_106_1657901314003"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_61_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_107_1657901331424"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_62_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_108_1657901434043"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_63_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_109_1657901452700"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_66_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_110_1657901454820"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_64_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_111_1657901466478"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_65_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_112_1657901467854"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_67_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_113_1657901524500"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_68_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_114_1657901530536"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_69_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_115_1657901540802"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_70_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_116_1657901551796"
+    },
+    {
+      "type": "standard",
+      "title": "High Cost Explained",
+      "output": {
+        "generic": [
+          {
+            "source": "https://www.asiaone.com/sites/default/files/original_images/Aug2019/20190816_abalone%20%284%29.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "An ordinary can of abalone costs $40. Premium brands charge as high as $80 for one abalone. Please choose from one of the options below to learn more about why this is so."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Wild Harvest",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Risks",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              },
+              {
+                "label": "Supply",
+                "value": {
+                  "input": {
+                    "text": "3"
+                  }
+                }
+              },
+              {
+                "label": "Legal Restrictions",
+                "value": {
+                  "input": {
+                    "text": "4"
+                  }
+                }
+              },
+              {
+                "label": "Farming",
+                "value": {
+                  "input": {
+                    "text": "5"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "@menu-agronomics:1 || #Agronomics",
+      "dialog_node": "node_1_1657876314503"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_77_1657876445641",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_117_1657901563019"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_3_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1657876314503"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_118_1657903476077",
+      "previous_sibling": "node_6_1657900714140"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1657876314503"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_119_1657903515184",
+      "previous_sibling": "node_78_1657900832495"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_5_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1657876314503"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_120_1657903533839",
+      "previous_sibling": "node_79_1657900853605"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_6_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1657876314503"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_121_1657903548297",
+      "previous_sibling": "node_80_1657900866265"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_16_1657876345509",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_15_1657876345506"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_122_1657903622993",
+      "previous_sibling": "node_81_1657900890684"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_17_1657876345509",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_15_1657876345506"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_123_1657903643637",
+      "previous_sibling": "node_82_1657900907347"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_18_1657876345509",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_15_1657876345506"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_124_1657903652441",
+      "previous_sibling": "node_83_1657900919714"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_23_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1657876356092"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_125_1657903703341",
+      "previous_sibling": "node_85_1657901001647"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_24_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1657876356092"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_126_1657903901007",
+      "previous_sibling": "node_86_1657901015841"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_25_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1657876356092"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_127_1657903911288",
+      "previous_sibling": "node_87_1657901026400"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack ",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_26_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1657876356092"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_128_1657903921022",
+      "previous_sibling": "node_88_1657901040177"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_27_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1657876356092"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_129_1657903929523",
+      "previous_sibling": "node_89_1657901053909"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_28_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1657876356092"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_130_1657903946688",
+      "previous_sibling": "node_90_1657901068886"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack ",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_29_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1657876356092"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_131_1657903960981",
+      "previous_sibling": "node_91_1657901088155"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack ",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_30_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1657876356092"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_132_1657903968823",
+      "previous_sibling": "node_92_1657901099472"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_31_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_22_1657876356092"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_133_1657903979606",
+      "previous_sibling": "node_93_1657901116633"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_45_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_44_1657876396870"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_134_1657904046931",
+      "previous_sibling": "node_94_1657901134860"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_46_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_44_1657876396870"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_135_1657904057852",
+      "previous_sibling": "node_95_1657901149143"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_47_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_44_1657876396870"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_136_1657904065531",
+      "previous_sibling": "node_96_1657901158675"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_48_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_44_1657876396870"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_137_1657904076633",
+      "previous_sibling": "node_97_1657901186090"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_49_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_44_1657876396870"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_138_1657904085788",
+      "previous_sibling": "node_98_1657901195893"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_50_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_44_1657876396870"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_139_1657904094888",
+      "previous_sibling": "node_99_1657901209475"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_51_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_44_1657876396870"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_140_1657904102175",
+      "previous_sibling": "node_100_1657901220930"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_53_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_52_1657876414090"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_141_1657904160224",
+      "previous_sibling": "node_101_1657901235198"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_54_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_52_1657876414090"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_142_1657904172768",
+      "previous_sibling": "node_102_1657901253307"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_55_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_52_1657876414090"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_143_1657904182960",
+      "previous_sibling": "node_103_1657901262839"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_56_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_52_1657876414090"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_144_1657904191596",
+      "previous_sibling": "node_104_1657901272876"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_57_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_52_1657876414090"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_145_1657904203749",
+      "previous_sibling": "node_105_1657901305064"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_58_1657876414096",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_52_1657876414090"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_146_1657904214636",
+      "previous_sibling": "node_106_1657901314003"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_61_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_147_1657904237233",
+      "previous_sibling": "node_107_1657901331424"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_62_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_148_1657904371755",
+      "previous_sibling": "node_108_1657901434043"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_63_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_149_1657904379986",
+      "previous_sibling": "node_109_1657901452700"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_64_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_150_1657904392089",
+      "previous_sibling": "node_111_1657901466478"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_65_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_151_1657904399838",
+      "previous_sibling": "node_112_1657901467854"
+    },
+    {
+      "type": "standard",
+      "title": "Abalone Recommendations",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not sure on how to choose your Abalones? Let AbaloneBot help you! Please choose the option you want to learn more about."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Recommendations",
+            "options": [
+              {
+                "label": "Drained weight or net weight?",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Which country has the best canned abalones?",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              },
+              {
+                "label": "Abalone size",
+                "value": {
+                  "input": {
+                    "text": "3"
+                  }
+                }
+              },
+              {
+                "label": "Fresh or Canned?",
+                "value": {
+                  "input": {
+                    "text": "4"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "@menu-recommendation:2 || #Recommendation",
+      "dialog_node": "node_15_1657876345506",
+      "previous_sibling": "node_1_1657876314503"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_66_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_152_1657904409810",
+      "previous_sibling": "node_110_1657901454820"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_67_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_153_1657904418200",
+      "previous_sibling": "node_113_1657901524500"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_68_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_154_1657904425663",
+      "previous_sibling": "node_114_1657901530536"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_69_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_155_1657904434026",
+      "previous_sibling": "node_115_1657901540802"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_70_1657876416765",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_60_1657876416757"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_156_1657904443966",
+      "previous_sibling": "node_116_1657901551796"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack - copy 1",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_19_1657876345509",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_15_1657876345506"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_157_1657904768925",
+      "previous_sibling": "node_84_1657900933573"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_77_1657876445641",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_158_1657906349452",
+      "previous_sibling": "node_117_1657901563019"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "When it comes to choosing the best canned abalones in Singapore, you should always look for the drained weight instead of net weight. The drained weight determines how much actual abalone is in the can. For instance, cans with a net weight of 425g may actually have a varied drained weight between 50g to 220g."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back ",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_15_1657876345506",
+      "conditions": "@Drainedweightornetweight:1",
+      "dialog_node": "node_16_1657876345509"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Japan, Australia, New Zealand and South Africa are highly regarded as some countries that produce the best quality abalones. However, it is good to note that the abalone species produced in each country are different in terms of taste and appearance. Australian abalones offer sweet flavour with a chewy texture and typically light brown. New Zealand's abalones are rich in flavour with a firm texture. Finally South African abalones are strong in sea flavour with a succulent texture and are Dark Brown in colour."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_15_1657876345506",
+      "conditions": "@countrybest:2",
+      "dialog_node": "node_17_1657876345509",
+      "previous_sibling": "node_16_1657876345509"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "It is also important to check the abalone size, which is measured in terms of the number of heads — where a one-head abalone is approximately equivalent to 600g. It might sound confusing but to put it simply, the fewer the number of heads, the larger the piece of abalone. For example, a two-head abalone (300g) is larger than a four-head abalone (150g). Canned abalones are generally about one-half-head (450g), but this varies across brands. Do make sure to double check the labels as larger abalones are usually more pricey."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_15_1657876345506",
+      "conditions": "@abalonesize:3",
+      "dialog_node": "node_18_1657876345509",
+      "previous_sibling": "node_17_1657876345509"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "While some might argue that fresh abalones (which can be either wild caught or farmed) have a more authentic taste, canned abalones bring their own set of strengths too! Here are some of them:   Canned abalones are ready to eat once opened because they contain salt or are already braised in a sauce. This means that you don’t have to wash them and can save time on preparation. Canned abalones are generally more affordable than wild-caught abalones (which are considered rare and hard to get). Illegal poaching and sustainability concerns have also caused the prices of wild caught abalones to soar.  Canned abalones have a longer shelf life lasting up to a year while fresh abalones are highly perishable and should be consumed on the same day it is bought. In general, abalone is highly nutritious thanks to its rich source of protein, and it also has a combination of essential vitamins and minerals such as calcium and iron. This can help improve your immunity system and bone strength. Moreover, abalones have low fat and almost no cholesterol is present — great for those keeping track of their calorie count!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_15_1657876345506",
+      "conditions": "@FreshorCanned:4",
+      "dialog_node": "node_19_1657876345509",
+      "previous_sibling": "node_18_1657876345509"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Abalone must be harvested individually by hand. Unlike conventional seafood such as fishes and prawns, abalone cannot be obtained from the cast of a net. Therefore, the cost-to-yield ratio is very low.  Furthermore, due to their hard and heavy shells, abalone usually only appear on the seafloor, which means that a trained diver must dive deep into the waters to find and pick them. It takes a lot of dedication and hard work just to get one large abalone."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1657876314503",
+      "conditions": "@wildharvest:1",
+      "dialog_node": "node_2_1657876314506"
+    },
+    {
+      "type": "standard",
+      "title": "Recipes",
+      "output": {
+        "generic": [
+          {
+            "source": "https://live.staticflickr.com/65535/51835476753_2cbaa0082b_k.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Not sure how to prepare and cook your abalones? Find recipe ideas here!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Recipes",
+            "options": [
+              {
+                "label": "Braised Abalone with Aged Soy ",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Abalone with spring onions and ginger",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              },
+              {
+                "label": "Sautéed Abalone",
+                "value": {
+                  "input": {
+                    "text": "3"
+                  }
+                }
+              },
+              {
+                "label": "Pan-Fried Abalone",
+                "value": {
+                  "input": {
+                    "text": "4"
+                  }
+                }
+              },
+              {
+                "label": "Abalone with chilli and garlic ",
+                "value": {
+                  "input": {
+                    "text": "5"
+                  }
+                }
+              },
+              {
+                "label": " Pan-Fried Abalone Recipe with Soy Glaze",
+                "value": {
+                  "input": {
+                    "text": "6"
+                  }
+                }
+              },
+              {
+                "label": "Braised Abalone and Broccoli in Oyster Sauce",
+                "value": {
+                  "input": {
+                    "text": "7"
+                  }
+                }
+              },
+              {
+                "label": "Braised Abalone with Mushrooms (红烧鲍菇)",
+                "value": {
+                  "input": {
+                    "text": "8"
+                  }
+                }
+              },
+              {
+                "label": "Braised Abalone with Bok Choy (Stove or Pressure Cooker)",
+                "value": {
+                  "input": {
+                    "text": "9"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "@menu-recipes:3 || #recipes",
+      "dialog_node": "node_22_1657876356092",
+      "previous_sibling": "node_15_1657876345506"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://www.finefoodspecialist.co.uk/media/recipe/Abalone_3_1.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "You can find the full recipe here:\nhttps://www.finefoodspecialist.co.uk/drogos-kitchen/braised-abalone-aged-soy"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "conditions": "@BraisedAbalonewithAgedSoy:1",
+      "dialog_node": "node_23_1657876356098"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://cdn.i-scmp.com/sites/default/files/styles/1920x1080/public/d8/images/2020/07/17/nexus_cd9f6210-da63-47ed-a747-162c231f4636.jpg?itok=Nm1ll8i_",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "You can find the full recipe here:\nhttps://www.scmp.com/cooking/recipe/abalone-spring-onions-and-ginger/article/3093691"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "conditions": "@Abalonewithspringonionsandginger:2",
+      "dialog_node": "node_24_1657876356098",
+      "previous_sibling": "node_23_1657876356098"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://www.justonecookbook.com/wp-content/uploads/2012/07/Sauteed-Abalone-III.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "https://www.justonecookbook.com/sauteed-abalone/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "conditions": "@SautéedAbalone:3",
+      "dialog_node": "node_25_1657876356098",
+      "previous_sibling": "node_24_1657876356098"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://www.thespruceeats.com/thmb/v-xgU5sPOlmyQR9o7wT5C_a5iOk=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AbalonePlate-56a5afb73df78cf772896c07.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "https://www.thespruceeats.com/pan-fried-abalone-2217263"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "conditions": "@Pan-FriedAbalone:4",
+      "dialog_node": "node_26_1657876356098",
+      "previous_sibling": "node_25_1657876356098"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/GF3_FISH_MarinatedAbalone.jpg?itok=stR-t4Gu&mtime=1375890117",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "https://www.sbs.com.au/food/recipes/abalone-chilli-and-garlic"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "conditions": "@Abalonewithchilliandgarlic:5",
+      "dialog_node": "node_27_1657876356098",
+      "previous_sibling": "node_26_1657876356098"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://kimchimari.com/wp-content/uploads/2020/11/Korean-grilled-abalone-jeonbok-in-shell-683x1024.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "https://kimchimari.com/pan-fried-abalone/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "conditions": "@Pan-Fried-Abalone:6",
+      "dialog_node": "node_28_1657876356098",
+      "previous_sibling": "node_27_1657876356098"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://delightfulplate.com/wp-content/uploads/2022/01/Braised-Abalone-with-Broccoli-in-Oyster-Sauce-Bao-ngu-sot-dau-hao.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "https://delightfulplate.com/braised-abalone-broccoli-in-oyster-sauce/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "conditions": "@BraisedAbaloneandBroccoliinOysterSauce:7",
+      "dialog_node": "node_29_1657876356098",
+      "previous_sibling": "node_28_1657876356098"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://i0.wp.com/www.wokandkin.com/wp-content/uploads/2020/10/Braised-Abalone-with-Mushrooms-saved-for-web.png?w=600&ssl=1",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "https://www.wokandkin.com/braised-abalone-with-mushrooms/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "conditions": "@Braised-Abalone-with-Mushroom:8",
+      "dialog_node": "node_30_1657876356098",
+      "previous_sibling": "node_29_1657876356098"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://whattocooktoday.com/wp-content/uploads/2018/12/braised-abalone-15.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "https://whattocooktoday.com/braised-abalone-with-bok-choy.html"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "conditions": "@Braised-Abalone-with-BokChoy:9",
+      "dialog_node": "node_31_1657876356098",
+      "previous_sibling": "node_30_1657876356098"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Diving for abalone is a very risky business. Apart from being subjected to the rough sea waters and jagged shells, divers are also under the threat of sharks and other marine creatures.  In this article, it details how Tasmanian divers are exposed to rough working conditions, with the hopes of tapping into the niche Chinese market for dried abalone. In other countries, there have been instances where divers perished while attempting to collect abalone.  As one of Tasmania’s largest processors of live seafood said, abalone is a premium product, and “it rides a lot on the strength of the individual economies”. So, if people are feeling rich and their incomes are increasing year by year, they feel more inclined to splurge and order some nice abalone.  Hence, despite the high risk of obtaining abalone, divers are willing to dive because many customers are still willing to spend."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1657876314503",
+      "conditions": "@Risk:2",
+      "dialog_node": "node_3_1657876314506",
+      "previous_sibling": "node_2_1657876314506"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Abalone can only grow in coastal waters. Most abalone species can only thrive in cold waters, in locations such as Australia, New Zealand, Japan, and the western side of North America. Unlike other types of seafood, abalone is not in abundance when it comes to quantity. With global warming leading to rising sea water temperatures, we can only expect the supply of abalone to decline further.  Furthermore, during the Chinese New Year, demand for abalone spikes, which results in higher prices. Compare this to the price of abalone if you were to buy it during the rest of the year."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1657876314503",
+      "conditions": "@supply:3",
+      "dialog_node": "node_4_1657876314506",
+      "previous_sibling": "node_3_1657876314506"
+    },
+    {
+      "type": "standard",
+      "title": "Price",
+      "output": {
+        "generic": [
+          {
+            "source": "https://www.misstamchiak.com/wp-content/uploads/2020/01/Z3A9499-7-1300x867.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "In 2022, the approximate price range for Singapore Abalone is between US $39 and US $42 per kilogram or between US $17 and US $19 per pound(lb). The price in Singapore Dollar is SG $52 per kg. The average price for a tonne is US $39204 in Singapore. Singapore's import price for abalone in 2019 was US $32 per kilogram.If you would like to find out about specific local canned abalone prices please select from the option below"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Select Option",
+            "options": [
+              {
+                "label": "Calmex Australia 425g",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Golden Chef NZ 425g",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              },
+              {
+                "label": "New Moon Australia 425g",
+                "value": {
+                  "input": {
+                    "text": "3"
+                  }
+                }
+              },
+              {
+                "label": "New Moon Mexico 425g",
+                "value": {
+                  "input": {
+                    "text": "4"
+                  }
+                }
+              },
+              {
+                "label": "New Moon NZ 425g",
+                "value": {
+                  "input": {
+                    "text": "5"
+                  }
+                }
+              },
+              {
+                "label": "Seaco Australia 425g",
+                "value": {
+                  "input": {
+                    "text": "6"
+                  }
+                }
+              },
+              {
+                "label": "Skylight NZ 425g",
+                "value": {
+                  "input": {
+                    "text": "7"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "context": {},
+      "conditions": "@menu-price:4 || #Price",
+      "dialog_node": "node_44_1657876396870",
+      "previous_sibling": "node_22_1657876356092"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/90074757_XL1_20210505.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Calmex Australia 425g: $142.00"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_44_1657876396870",
+      "conditions": "@CalmexAustraliaPrice:1",
+      "dialog_node": "node_45_1657876396874"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/12347554_XL1_20220124.jpg?w=1200&q=70",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Golden Chef NZ 425g: $46.8"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_44_1657876396870",
+      "conditions": "@GoldenChefNZPrice:2",
+      "dialog_node": "node_46_1657876396874",
+      "previous_sibling": "node_45_1657876396874"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://changiairport.scene7.com/is/image/changiairport/mp00140252-1-new-moon-1626054582896-new-moon-australia-abalone-425g---wild-catch?$2x$",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "New Moon Australia 425g: $55.8"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_44_1657876396870",
+      "conditions": "@NewMoonAustralia:3",
+      "dialog_node": "node_47_1657876396874",
+      "previous_sibling": "node_46_1657876396874"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/13078735_XL1_20220307.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "New Moon Mexico 425g: $158"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_44_1657876396870",
+      "conditions": "@NewMoonMexico:4",
+      "dialog_node": "node_48_1657876396874",
+      "previous_sibling": "node_47_1657876396874"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/75342_XL1_20220123.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "New Moon New Zealand 425g: $45.8"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_44_1657876396870",
+      "conditions": "@NewMoonNZ:5",
+      "dialog_node": "node_49_1657876396874",
+      "previous_sibling": "node_48_1657876396874"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/90115664_XL1_20211223.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Seaco Australia 425g: $32.9 "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_44_1657876396870",
+      "conditions": "@SeacoAustralia:6",
+      "dialog_node": "node_50_1657876396874",
+      "previous_sibling": "node_49_1657876396874"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media.nedigital.sg/fairprice/fpol/media/images/product/XL/86034_XL1_20220117.jpg?w=1200&q=70",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Skylight New Zealand 425g: $45"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_44_1657876396870",
+      "conditions": "@SkylightNZ:7",
+      "dialog_node": "node_51_1657876396874",
+      "previous_sibling": "node_50_1657876396874"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Due to overfishing on a worldwide scale, two species of abalone —white and black abalone —are listed as critically endangered in the Endangered Species Act (North America). Three other species of abalone (pink, pinto, green) are also part of the Species of Concern Programme, which supports conservation efforts. It will not be surprising if government regulations no longer permit fisheries to freely harvest abalone without a daily quota.  Furthermore, from December last year, Perth introduced new guidelines to abalone fishing. Harvesting is limited to one hour on four Saturday mornings between December and February, and the maximum catch is 15 pieces for each person. Abalone fishing between Geraldton and the Northern Territory border will be completely out of bounds.   Many popular abalone brands in Singapore import their abalone from Australia, so we are bound to see the rise in prices as a result of these bans and regulations."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1657876314503",
+      "conditions": "@legal:4",
+      "dialog_node": "node_5_1657876314506",
+      "previous_sibling": "node_4_1657876314506"
+    },
+    {
+      "type": "standard",
+      "title": "Backtrack",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1657876314503"
+      },
+      "conditions": "@backtrack:2",
+      "dialog_node": "node_5_1657903306448",
+      "previous_sibling": "node_8_1657900515197"
+    },
+    {
+      "type": "standard",
+      "title": "Distributors/Wholesalers",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media.karousell.com/media/photos/products/2021/1/12/new_moon_abalone_wholesale_sup_1610478696_e9698e02.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Looking for Singapore wholesale distributors of Abalone? Find verified wholesalers from our list of distributors."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Distributors",
+            "options": [
+              {
+                "label": "Arco Marketing",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Sin Ocean",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              },
+              {
+                "label": "New Moon",
+                "value": {
+                  "input": {
+                    "text": "3"
+                  }
+                }
+              },
+              {
+                "label": "Hong Seafood",
+                "value": {
+                  "input": {
+                    "text": "4"
+                  }
+                }
+              },
+              {
+                "label": "CV Bumi Indonesia Subur ",
+                "value": {
+                  "input": {
+                    "text": "5"
+                  }
+                }
+              },
+              {
+                "label": "VWC",
+                "value": {
+                  "input": {
+                    "text": "6"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "@menu-distributor:5 || #Distributors",
+      "dialog_node": "node_52_1657876414090",
+      "previous_sibling": "node_44_1657876396870"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can find out more about them at: https://m.arcomarketing.com.sg/index.php?ws=ourproducts&cid=96178"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_52_1657876414090",
+      "conditions": "@arcomarketing:1",
+      "dialog_node": "node_53_1657876414096"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can find out more about them at: https://www.sinoceanpteltd.com.sg/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_52_1657876414090",
+      "conditions": "@sinocean:2",
+      "dialog_node": "node_54_1657876414096",
+      "previous_sibling": "node_53_1657876414096"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can find out more about them at: https://www.newmoon.com.sg/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_52_1657876414090",
+      "conditions": "@newmoon:3",
+      "dialog_node": "node_55_1657876414096",
+      "previous_sibling": "node_54_1657876414096"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can find out more about them at: http://hongseafood.com/project/abalone/"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_52_1657876414090",
+      "conditions": "@Hongseafood:4",
+      "dialog_node": "node_56_1657876414096",
+      "previous_sibling": "node_55_1657876414096"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can find out more about them at: http://www.topnotchroast.com"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_52_1657876414090",
+      "conditions": "@cvburmiindonesiasubur:5",
+      "dialog_node": "node_57_1657876414096",
+      "previous_sibling": "node_56_1657876414096"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can find out more about them at: https://vwcshopping.com.sg/abalone"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_52_1657876414090",
+      "conditions": "@VWC:6",
+      "dialog_node": "node_58_1657876414096",
+      "previous_sibling": "node_57_1657876414096"
+    },
+    {
+      "type": "standard",
+      "title": "Countries/Exporters",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please choose which country's commercial aquaculture you are interested in or ask me another question to continue."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Countries",
+            "options": [
+              {
+                "label": "China",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Republic of Korea",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              },
+              {
+                "label": "Japan",
+                "value": {
+                  "input": {
+                    "text": "3"
+                  }
+                }
+              },
+              {
+                "label": "Australia",
+                "value": {
+                  "input": {
+                    "text": "4"
+                  }
+                }
+              },
+              {
+                "label": "New Zealand",
+                "value": {
+                  "input": {
+                    "text": "5"
+                  }
+                }
+              },
+              {
+                "label": "South Africa ",
+                "value": {
+                  "input": {
+                    "text": "6"
+                  }
+                }
+              },
+              {
+                "label": "Mexico",
+                "value": {
+                  "input": {
+                    "text": "7"
+                  }
+                }
+              },
+              {
+                "label": "Chile",
+                "value": {
+                  "input": {
+                    "text": "8"
+                  }
+                }
+              },
+              {
+                "label": "USA",
+                "value": {
+                  "input": {
+                    "text": "9"
+                  }
+                }
+              },
+              {
+                "label": "Other countries",
+                "value": {
+                  "input": {
+                    "text": "10"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "@menu-exporter:6 || #Export",
+      "dialog_node": "node_60_1657876416757",
+      "previous_sibling": "node_52_1657876414090"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "China is easily the leading producer of abalone in the world, producing nearly 115 400 tonnes in 2014,and remains the foremost consuming country. China is also a substantial importer. A fourfold increase  (400 percent) in production over the past 10 years has allowed millions of more Chinese consumers to enjoy this expensive yet favorite delicacy.   Average market prices in mid-2016 US$25–27 per kg, in shell. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@china:1",
+      "dialog_node": "node_61_1657876416765"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Abalone farming began in the late 1950s and early 1960s in Japan and China, when it became necessary due to high demand and overfishing. In recent years, growth of the abalone industry has been made possible by a number of innovations in low- cost seed production and highly efficient sea-based cage culture systems. By 2018, global aquaculture production of abalone had reached 46,400 tonnes per year.  China is the world’s largest producer and consumer of abalone, and other important producers include Taiwan, Japan and Korea, followed by Australia, Canada, Chile, France, Iceland, Ireland, Mexico, Namibia, New Zealand, South Africa, Spain, Thailand, and the United States.  Abalone farming can be labour intensive, and farmers need to ensure that the growing conditions are always optimised in terms of water quality, stocking density, temperature, salinity and feeding practices, in order to produce a quality product to compete with and replace stock from wild capture fisheries."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1657876314503",
+      "conditions": "@farming:5",
+      "dialog_node": "node_6_1657876314506",
+      "previous_sibling": "node_5_1657876314506"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_3_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_6_1657900714140"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "With virtually no production 15 years ago, the Republic of Korea has become the second largest worldwide producer at over 9 000 tonnes in 2014. Predominately grown on small-scale farms, many issues are currently under national study, including increasing exports, improving the processing/distribution system, and imbalances in supply."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@Korea:2",
+      "dialog_node": "node_62_1657876416765",
+      "previous_sibling": "node_61_1657876416765"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "After Hong Kong SAR, Japan is the world’s second largest and most discerning importer of abalone, with fish markets displaying abalone from virtually every producing country.  In 2014, Japan produced 1 360 tonnes and imported over 2 600 tonnes as well. Prices are steady, with the country’s own landings receiving a premium over all imports. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@Japan:3",
+      "dialog_node": "node_63_1657876416765",
+      "previous_sibling": "node_62_1657876416765"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Australia is the world’s largest remaining capture abalone fishery. In 2014, Australia produced nearly  5 000 tonnes, which includes almost 900 tonnes from their growing aquaculture industry.  Exports in 2015 totaled 2 680 tonnes. It is hoped that the recent China-Australia free-trade agreement will result in greater access to the Chinese markets."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@Australia:4",
+      "dialog_node": "node_64_1657876416765",
+      "previous_sibling": "node_63_1657876416765"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Government quotas have perpetuated commercial abalone landings at 800 to 1 000 tonnes for the past 10 years. Unfortunately, IUU fishing remains substantial.  New Zealand maintains a small but growing aquaculture industry."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@NewZealand:5",
+      "dialog_node": "node_65_1657876416765",
+      "previous_sibling": "node_64_1657876416765"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Once a major capture exporter, the fishery has been virtually closed for many years, primarily due to continuing IUU activities. Beginning in the early 1990s, an infant aquaculture industry has grown exponentially, exporting 1 130 tonnes in 2015. South Africa’s abalone is considered one of the world’s most premium, in part the result of strong quality control as well as the fact that it is of a larger size and has a unique taste that is preferred by many. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@SouthAfrica:6",
+      "dialog_node": "node_66_1657876416765",
+      "previous_sibling": "node_65_1657876416765"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Mexican-captured abalone is considered a world premium. This is because Mexico is one of the last countries to legally fish wild, large-sized, green abalone (H. fulgens) under a government quotas system. The bulk is processed into cans of 255 g drained weight, with price per can the highest of any canned abalone in the world. Government fishing quotas  have been reduced nearly 30 percent from 2010 to 2015, in part as a result of unabated cartel-related IUU activity. Mexico has a small yet growing aquaculture industry. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@Mexico:7",
+      "dialog_node": "node_67_1657876416765",
+      "previous_sibling": "node_66_1657876416765"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In contrast to other countries, abalone is not indigenous to Chile but Chileans were introduced to the taste of abalone with product from California. Chile began farming red abalone (H. rufescens) in the early 1990’s, with production achieving 1 200 tonnes in 2014."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@Chile:8",
+      "dialog_node": "node_68_1657876416765",
+      "previous_sibling": "node_67_1657876416765"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Once one of the world’s largest abalone fisheries, overfishing and IUU activity led to a total commercial closure 20 years ago. Abalone is currently farmed only in California and Hawaii, with a large percentage exported live to Asia, notwithstanding a growing US market.  "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@USA:9",
+      "dialog_node": "node_69_1657876416765",
+      "previous_sibling": "node_68_1657876416765"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In addition to the higher production countries, commercial aquaculture also exists in Canada, Channel Islands, France, Iceland, Ireland, Italy, Namibia, New Zealand, Oman, Spain, Taiwan Province of China, Thailand and the UK.  There is also a capture fishery in the Philippines."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "conditions": "@Othercountries:10",
+      "dialog_node": "node_70_1657876416765",
+      "previous_sibling": "node_69_1657876416765"
+    },
+    {
+      "type": "standard",
+      "title": "About",
+      "output": {
+        "generic": [
+          {
+            "source": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2020/09/24/d2286dca5158491cb0bd721d9dc24a24_Cherry+Garden+Luxurious+Pen+Cai.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "The flesh of Abalones is widely desired in many cultures and different areas for the world. The meat of this mollusc is most commonly known as 鲍鱼 (Bàoyú) in Asia and is a must-have for Chinese New Year, and is also enjoyed as a delicacy at family dinners and celebrations such as weddings. \n\nHowever most people do not know why they are sold at exorbitant prices and whether they are getting the right abalone for the price they are paying. \n\nThis ChatBot aims to educate everyone more on Abalones.\n\nPlease ask me another question to continue."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "title": "Where would you like to go next?",
+            "options": [
+              {
+                "label": "Main Menu",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "Back",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "Welcome",
+      "conditions": "@menu-about:7 || #About",
+      "dialog_node": "node_77_1657876445641",
+      "previous_sibling": "node_60_1657876416757"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_4_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_78_1657900832495"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_5_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_79_1657900853605"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_6_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_80_1657900866265"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_16_1657876345509",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_81_1657900890684"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_2_1657876314506",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_8_1657900515197"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_17_1657876345509",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_82_1657900907347"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_18_1657876345509",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_83_1657900919714"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_19_1657876345509",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_84_1657900933573"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_23_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_85_1657901001647"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_24_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_86_1657901015841"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_25_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_87_1657901026400"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_26_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_88_1657901040177"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_27_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_89_1657901053909"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_28_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_90_1657901068886"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_29_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_91_1657901088155"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_30_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_92_1657901099472"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_31_1657876356098",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_93_1657901116633"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_45_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_94_1657901134860"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_46_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_95_1657901149143"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_47_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_96_1657901158675"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_48_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_97_1657901186090"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_49_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_98_1657901195893"
+    },
+    {
+      "type": "standard",
+      "title": "Return to main menu",
+      "output": {
+        "generic": []
+      },
+      "parent": "node_50_1657876396874",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "Welcome"
+      },
+      "conditions": "@return:1",
+      "dialog_node": "node_99_1657901209475"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Not sure on how to choose your Abalones? Let AbaloneBot help you! Please choose the option you want to learn more about."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Recommendations",
+            "options": [
+              {
+                "label": "Drained weight or net weight?",
+                "value": {
+                  "input": {
+                    "text": "When it comes to choosing the best canned abalones, you should always look for the drained weight instead of net weight. The drained weight determines how much actual abalone is in the can. For instance, cans with a net weight of 425g may actually have a v"
+                  }
+                }
+              },
+              {
+                "label": "Which country has the best canned abalones?",
+                "value": {
+                  "input": {
+                    "text": "Japan, Australia, New Zealand and South Africa are highly regarded as some countries that produce the best quality abalones. However, it is good to note that the abalone species produced in each country are different in terms of taste and appearance. Australian abalones offer sweet flavour with a chewy texture and typically light brown. New Zealand's abalones are rich in flavour with a firm texture. Finally South African abalones are strong in sea flavour with a succulent texture and are Dark Brown in colour."
+                  }
+                }
+              },
+              {
+                "label": "Abalone size",
+                "value": {
+                  "input": {
+                    "text": "It is also important to check the abalone size, which is measured in terms of the number of heads — where a one-head abalone is approximately equivalent to 600g. It might sound confusing but to put it simply, the fewer the number of heads, the larger the piece of abalone. For example, a two-head abalone (300g) is larger than a four-head abalone (150g). Canned abalones are generally about one-half-head (450g), but this varies across brands. Do make sure to double check the labels as larger abalones are usually more pricey."
+                  }
+                }
+              },
+              {
+                "label": "Fresh or Canned?",
+                "value": {
+                  "input": {
+                    "text": "While some might argue that fresh abalones (which can be either wild caught or farmed) have a more authentic taste, canned abalones bring their own set of strengths too! Here are some of them:   Canned abalones are ready to eat once opened because they contain salt or are already braised in a sauce. This means that you don’t have to wash them and can save time on preparation. Canned abalones are generally more affordable than wild-caught abalones (which are considered rare and hard to get). Illegal poaching and sustainability concerns have also caused the prices of wild caught abalones to soar.  Canned abalones have a longer shelf life lasting up to a year while fresh abalones are highly perishable and should be consumed on the same day it is bought. In general, abalone is highly nutritious thanks to its rich source of protein, and it also has a combination of essential vitamins and minerals such as calcium and iron. This can help improve your immunity system and bone strength. Moreover, abalones have low fat and almost no cholesterol is present — great for those keeping track of their calorie count!"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_15_1657876345506",
+      "disabled": true,
+      "conditions": "#Recommendation",
+      "dialog_node": "response_20_1657876345509",
+      "previous_sibling": "node_19_1657876345509"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "",
+            "options": [],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_15_1657876345506",
+      "disabled": true,
+      "conditions": "#Recommendation",
+      "dialog_node": "response_21_1657876345509",
+      "previous_sibling": "response_20_1657876345509"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "source": "https://live.staticflickr.com/65535/51835476753_2cbaa0082b_k.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Not sure how to prepare and cook your abalones? Find recipe ideas here!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Recipes",
+            "options": [
+              {
+                "label": "Braised Abalone with Aged Soy ",
+                "value": {
+                  "input": {
+                    "text": "https://www.finefoodspecialist.co.uk/drogos-kitchen/braised-abalone-aged-soy"
+                  }
+                }
+              },
+              {
+                "label": "Abalone with spring onions and ginger",
+                "value": {
+                  "input": {
+                    "text": "https://www.scmp.com/cooking/recipe/abalone-spring-onions-and-ginger/article/3093691"
+                  }
+                }
+              },
+              {
+                "label": "Sautéed Abalone",
+                "value": {
+                  "input": {
+                    "text": "https://www.justonecookbook.com/sauteed-abalone/"
+                  }
+                }
+              },
+              {
+                "label": "Pan-Fried Abalone",
+                "value": {
+                  "input": {
+                    "text": "https://www.thespruceeats.com/pan-fried-abalone-2217263"
+                  }
+                }
+              },
+              {
+                "label": "Abalone with chilli and garlic ",
+                "value": {
+                  "input": {
+                    "text": "https://www.sbs.com.au/food/recipes/abalone-chilli-and-garlic"
+                  }
+                }
+              },
+              {
+                "label": " Pan-Fried Abalone Recipe with Soy Glaze",
+                "value": {
+                  "input": {
+                    "text": "https://kimchimari.com/pan-fried-abalone/"
+                  }
+                }
+              },
+              {
+                "label": "Braised Abalone and Broccoli in Oyster Sauce",
+                "value": {
+                  "input": {
+                    "text": "https://delightfulplate.com/braised-abalone-broccoli-in-oyster-sauce/"
+                  }
+                }
+              },
+              {
+                "label": "Braised Abalone with Mushrooms (红烧鲍菇)",
+                "value": {
+                  "input": {
+                    "text": "https://www.wokandkin.com/braised-abalone-with-mushrooms/"
+                  }
+                }
+              },
+              {
+                "label": "Braised Abalone with Bok Choy (Stove or Pressure Cooker)",
+                "value": {
+                  "input": {
+                    "text": "https://whattocooktoday.com/braised-abalone-with-bok-choy.html"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_22_1657876356092",
+      "disabled": true,
+      "conditions": "#recipes",
+      "dialog_node": "response_32_1657876356098",
+      "previous_sibling": "node_31_1657876356098"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "source": "https://media.karousell.com/media/photos/products/2021/1/12/new_moon_abalone_wholesale_sup_1610478696_e9698e02.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "Looking for Singapore wholesale distributors of Abalone? Find verified wholesalers from our list of distributors."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Distributors",
+            "options": [
+              {
+                "label": "Arco Marketing",
+                "value": {
+                  "input": {
+                    "text": "You can find out more about them at: https://m.arcomarketing.com.sg/index.php?ws=ourproducts&cid=96178"
+                  }
+                }
+              },
+              {
+                "label": "Sin Ocean",
+                "value": {
+                  "input": {
+                    "text": "You can find out more about them at: https://www.sinoceanpteltd.com.sg/"
+                  }
+                }
+              },
+              {
+                "label": "New Moon",
+                "value": {
+                  "input": {
+                    "text": "You can find out more about them at: https://www.newmoon.com.sg/"
+                  }
+                }
+              },
+              {
+                "label": "Hong Seafood",
+                "value": {
+                  "input": {
+                    "text": "You can find out more about them at: http://hongseafood.com/project/abalone/"
+                  }
+                }
+              },
+              {
+                "label": "CV Bumi Indonesia Subur ",
+                "value": {
+                  "input": {
+                    "text": "You can find out more about them at: http://www.topnotchroast.com"
+                  }
+                }
+              },
+              {
+                "label": "VWC",
+                "value": {
+                  "input": {
+                    "text": "You can find out more about them at: https://vwcshopping.com.sg/abalone"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_52_1657876414090",
+      "disabled": true,
+      "conditions": "#Distributors",
+      "dialog_node": "response_59_1657876414096",
+      "previous_sibling": "node_58_1657876414096"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "source": "https://www.asiaone.com/sites/default/files/original_images/Aug2019/20190816_abalone%20%284%29.jpg",
+            "response_type": "image"
+          },
+          {
+            "values": [
+              {
+                "text": "An ordinary can of abalone costs $40. Premium brands charge as high as $80 for one abalone. Please choose from one of the options below to learn more about why this is so."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "",
+            "options": [
+              {
+                "label": "Wild Harvest",
+                "value": {
+                  "input": {
+                    "text": "Abalone must be harvested individually by hand. Unlike conventional seafood such as fishes and prawns, abalone cannot be obtained from the cast of a net. Therefore, the cost-to-yield ratio is very low.  Furthermore, due to their hard and heavy shells, abalone usually only appear on the seafloor, which means that a trained diver must dive deep into the waters to find and pick them. It takes a lot of dedication and hard work just to get one large abalone."
+                  }
+                }
+              },
+              {
+                "label": "Risks",
+                "value": {
+                  "input": {
+                    "text": "Diving for abalone is a very risky business. Apart from being subjected to the rough sea waters and jagged shells, divers are also under the threat of sharks and other marine creatures.  In this article, it details how Tasmanian divers are exposed to rough working conditions, with the hopes of tapping into the niche Chinese market for dried abalone. In other countries, there have been instances where divers perished while attempting to collect abalone.  As one of Tasmania’s largest processors of live seafood said, abalone is a premium product, and “it rides a lot on the strength of the individual economies”. So, if people are feeling rich and their incomes are increasing year by year, they feel more inclined to splurge and order some nice abalone.  Hence, despite the high risk of obtaining abalone, divers are willing to dive because many customers are still willing to spend."
+                  }
+                }
+              },
+              {
+                "label": "Supply",
+                "value": {
+                  "input": {
+                    "text": "Abalone can only grow in coastal waters. Most abalone species can only thrive in cold waters, in locations such as Australia, New Zealand, Japan, and the western side of North America. Unlike other types of seafood, abalone is not in abundance when it comes to quantity. With global warming leading to rising sea water temperatures, we can only expect the supply of abalone to decline further.  Furthermore, during the Chinese New Year, demand for abalone spikes, which results in higher prices. Compare this to the price of abalone if you were to buy it during the rest of the year."
+                  }
+                }
+              },
+              {
+                "label": "Legal Restrictions",
+                "value": {
+                  "input": {
+                    "text": "Due to overfishing on a worldwide scale, two species of abalone —white and black abalone —are listed as critically endangered in the Endangered Species Act (North America). Three other species of abalone (pink, pinto, green) are also part of the Species of Concern Programme, which supports conservation efforts. It will not be surprising if government regulations no longer permit fisheries to freely harvest abalone without a daily quota.  Furthermore, from December last year, Perth introduced new guidelines to abalone fishing. Harvesting is limited to one hour on four Saturday mornings between December and February, and the maximum catch is 15 pieces for each person. Abalone fishing between Geraldton and the Northern Territory border will be completely out of bounds.   Many popular abalone brands in Singapore import their abalone from Australia, so we are bound to see the rise in prices as a result of these bans and regulations."
+                  }
+                }
+              },
+              {
+                "label": "Farming",
+                "value": {
+                  "input": {
+                    "text": "Abalone farming began in the late 1950s and early 1960s in Japan and China, when it became necessary due to high demand and overfishing. In recent years, growth of the abalone industry has been made possible by a number of innovations in low- cost seed production and highly efficient sea-based cage culture systems. By 2018, global aquaculture production of abalone had reached 46,400 tonnes per year.  China is the world’s largest producer and consumer of abalone, and other important producers include Taiwan, Japan and Korea, followed by Australia, Canada, Chile, France, Iceland, Ireland, Mexico, Namibia, New Zealand, South Africa, Spain, Thailand, and the United States.  Abalone farming can be labour intensive, and farmers need to ensure that the growing conditions are always optimised in terms of water quality, stocking density, temperature, salinity and feeding practices, in order to produce a quality product to compete with and replace stock from wild capture fisheries."
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1657876314503",
+      "disabled": true,
+      "conditions": "#Agronomics",
+      "dialog_node": "response_7_1657876314506",
+      "previous_sibling": "node_6_1657876314506"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Please choose which country's commercial aquaculture you are interested in or ask me another question to continue."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Countries",
+            "options": [
+              {
+                "label": "China",
+                "value": {
+                  "input": {
+                    "text": "China is easily the leading producer of abalone in the world, producing nearly 115 400 tonnes in 2014,and remains the foremost consuming country. China is also a substantial importer. A fourfold increase  (400 percent) in production over the past 10 years has allowed millions of more Chinese consumers to enjoy this expensive yet favorite delicacy.   Average market prices in mid-2016 US$25–27 per kg, in shell. "
+                  }
+                }
+              },
+              {
+                "label": "Republic of Korea",
+                "value": {
+                  "input": {
+                    "text": "With virtually no production 15 years ago, the Republic of Korea has become the second largest worldwide producer at over 9 000 tonnes in 2014. Predominately grown on small-scale farms, many issues are currently under national study, including increasing exports, improving the processing/distribution system, and imbalances in supply."
+                  }
+                }
+              },
+              {
+                "label": "Japan",
+                "value": {
+                  "input": {
+                    "text": "After Hong Kong SAR, Japan is the world’s second largest and most discerning importer of abalone, with fish markets displaying abalone from virtually every producing country.  In 2014, Japan produced 1 360 tonnes and imported over 2 600 tonnes as well. Prices are steady, with the country’s own landings receiving a premium over all imports. "
+                  }
+                }
+              },
+              {
+                "label": "Australia",
+                "value": {
+                  "input": {
+                    "text": "Australia is the world’s largest remaining capture abalone fishery. In 2014, Australia produced nearly  5 000 tonnes, which includes almost 900 tonnes from their growing aquaculture industry.  Exports in 2015 totaled 2 680 tonnes. It is hoped that the recent China-Australia free-trade agreement will result in greater access to the Chinese markets."
+                  }
+                }
+              },
+              {
+                "label": "New Zealand",
+                "value": {
+                  "input": {
+                    "text": "Government quotas have perpetuated commercial abalone landings at 800 to 1 000 tonnes for the past 10 years. Unfortunately, IUU fishing remains substantial.  New Zealand maintains a small but growing aquaculture industry."
+                  }
+                }
+              },
+              {
+                "label": "South Africa ",
+                "value": {
+                  "input": {
+                    "text": "Once a major capture exporter, the fishery has been virtually closed for many years, primarily due to continuing IUU activities. Beginning in the early 1990s, an infant aquaculture industry has grown exponentially, exporting 1 130 tonnes in 2015. South Africa’s abalone is considered one of the world’s most premium, in part the result of strong quality control as well as the fact that it is of a larger size and has a unique taste that is preferred by many. "
+                  }
+                }
+              },
+              {
+                "label": "Mexico",
+                "value": {
+                  "input": {
+                    "text": "Mexican-captured abalone is considered a world premium. This is because Mexico is one of the last countries to legally fish wild, large-sized, green abalone (H. fulgens) under a government quotas system. The bulk is processed into cans of 255 g drained weight, with price per can the highest of any canned abalone in the world. Government fishing quotas  have been reduced nearly 30 percent from 2010 to 2015, in part as a result of unabated cartel-related IUU activity. Mexico has a small yet growing aquaculture industry. "
+                  }
+                }
+              },
+              {
+                "label": "Chile",
+                "value": {
+                  "input": {
+                    "text": "In contrast to other countries, abalone is not indigenous to Chile but Chileans were introduced to the taste of abalone with product from California. Chile began farming red abalone (H. rufescens) in the early 1990’s, with production achieving 1 200 tonnes in 2014."
+                  }
+                }
+              },
+              {
+                "label": "USA",
+                "value": {
+                  "input": {
+                    "text": "Once one of the world’s largest abalone fisheries, overfishing and IUU activity led to a total commercial closure 20 years ago. Abalone is currently farmed only in California and Hawaii, with a large percentage exported live to Asia, notwithstanding a growing US market.  "
+                  }
+                }
+              },
+              {
+                "label": "Other countries",
+                "value": {
+                  "input": {
+                    "text": "In addition to the higher production countries, commercial aquaculture also exists in Canada, Channel Islands, France, Iceland, Ireland, Italy, Namibia, New Zealand, Oman, Spain, Taiwan Province of China, Thailand and the UK.  There is also a capture fishery in the Philippines."
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "disabled": true,
+      "conditions": "#Export",
+      "dialog_node": "response_75_1657876416765",
+      "previous_sibling": "slot_71_1657876416765"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_60_1657876416757",
+      "disabled": true,
+      "dialog_node": "response_76_1657876416765",
+      "previous_sibling": "response_75_1657876416765"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_60_1657876416757",
+      "dialog_node": "slot_71_1657876416765",
+      "previous_sibling": "handler_74_1657876416765"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi there I'm Abby!  I provide information on abalones and it's global aquaculture! \nPlease ask me something you would like to learn about, e.g. About Abalonebot, aquaculture, agronomic, recipes, price, distributors etc. If you have no idea where to start, please choose an option from below."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "title": "Choose a subject",
+            "options": [
+              {
+                "label": "Agronomics",
+                "value": {
+                  "input": {
+                    "text": "1"
+                  }
+                }
+              },
+              {
+                "label": "How to pick your Abalones",
+                "value": {
+                  "input": {
+                    "text": "2"
+                  }
+                }
+              },
+              {
+                "label": "Recipes",
+                "value": {
+                  "input": {
+                    "text": "3"
+                  }
+                }
+              },
+              {
+                "label": "Price",
+                "value": {
+                  "input": {
+                    "text": "4"
+                  }
+                }
+              },
+              {
+                "label": "Distributors",
+                "value": {
+                  "input": {
+                    "text": "5"
+                  }
+                }
+              },
+              {
+                "label": "Exporters",
+                "value": {
+                  "input": {
+                    "text": "6"
+                  }
+                }
+              },
+              {
+                "label": "About",
+                "value": {
+                  "input": {
+                    "text": "7"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Abalone",
+  "language": "en",
+  "description": ""
+}
