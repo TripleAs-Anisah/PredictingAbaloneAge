@@ -101,9 +101,9 @@
 
       <!-- Main Input For Receiving Query to our ML -->
       <form action="{{ url_for('predict')}}"method="post">
-        <input type="text" name="length" placeholder="Enter Length" required="required" /> </br> </br>
-          <input type="text" name="diameter" placeholder="Enter Diameter" required="required" /> </br> </br>
-          <input type="text" name="height" placeholder="Enter Height" required="required" /> </br> </br>
+        <input type="text" name="length" placeholder="Enter Length (in cm)" required="required" /> </br> </br>
+          <input type="text" name="diameter" placeholder="Enter Diameter (in cm)" required="required" /> </br> </br>
+          <input type="text" name="height" placeholder="Enter Height (in cm)" required="required" /> </br> </br>
           <button type="submit"> Predict Abalone's Age </button>
       </form>
 
